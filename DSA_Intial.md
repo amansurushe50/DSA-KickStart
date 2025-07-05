@@ -1,8 +1,4 @@
-# JavaScript Fundamentals: Cheatsheet & Practice
 
-A quick reference for common JavaScript arrays, libraries, and utilities, along with practice problems to sharpen your skills.
-
----
 
 ## Arrays
 
