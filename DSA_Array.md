@@ -111,5 +111,5 @@ JSON.parse(string);
 * [x] Traverse array and print elements
 * [x] Sum of all elements
 * [x] Search an element [Binary and sequential]
-* [ ] Insert at index
-* [ ] Count frequency of elements
+* [x] Insert at index
+* [x] Count frequency of elements
