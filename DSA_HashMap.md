@@ -36,7 +36,7 @@ A **hash function** converts a key (usually a string) into a numeric index to st
 
 ---
 
-##Implementation
+## Implementation
 
 ```javascript
 
